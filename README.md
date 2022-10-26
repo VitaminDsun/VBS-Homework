@@ -1,3 +1,9 @@
+VBA-code.bas = this is just the code for how i got the excel macro to highlight the cells and also make the addition sections with Greatest % Increase, Greatest % Decrease, Greatest Total Volume
+
+alphabetical_testing macros.xlsm = is the excell file that i did all my work on 
+
+Screenshot 2022-10-25 205542.png = is the screen shot of Multiple_year_stock_data because the file was too big to add ot the repo 
+
 # VBA Homework: The VBA of Wall Street
 
 ## Background
