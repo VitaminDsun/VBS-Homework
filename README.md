@@ -4,6 +4,8 @@ alphabetical_testing macros.xlsm = is the excell file that i did all my work on
 
 Screenshot 2022-10-25 205542.png = is the screen shot of Multiple_year_stock_data because the file was too big to add ot the repo 
 
+.gitignore = has Multiple_year_stock_data.xlsx in it so it would not be added once i commit the repo 
+
 # VBA Homework: The VBA of Wall Street
 
 ## Background
